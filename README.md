@@ -1,3 +1,5 @@
+> **Preservation copy:** Original research by **BlackBearReloaded**, recovered from [manoma080/ps5-hardware-video-decoding-research](https://github.com/manoma080/ps5-hardware-video-decoding-research) and preserved by **JMUtechnologies**. Original credits, licenses, files, and available history are retained. See [PRESERVATION.md](PRESERVATION.md) for the exact revision and limits.
+
 # PS5 Hardware Video Decoding Research
 
 September 2026 update: [later live-stream HDR acceptance](docs/hdr.md#later-live-stream-integration-acceptance-september-2026)
